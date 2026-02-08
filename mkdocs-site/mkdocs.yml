@@ -1,0 +1,5 @@
+site_name: Traveller-Deng's Journal
+site_url: https://traveller-deng.github.io/
+site_author: Thunder Tritium
+theme:
+  name: mkdocs
