@@ -4,7 +4,8 @@ site_author: Thunder Tritium
 
 nav:
   - 主页: index.md
-  - 尝试: MainPage.md
+  - 本周规划: 待办事项.md
+  - 搭建本网站的一些参考资料: reference.md
   
 theme: 
   name: material
